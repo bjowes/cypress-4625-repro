@@ -1,7 +1,7 @@
 {
   "name": "cypress-4625-repro",
   "version": "1.0.0",
-  "description": "This is a repro for issue #4625 for cypress",
+  "description": "This is a repro for issue #4625 for cypress.io",
   "main": "index.js",
   "scripts": {
     "test": "npx cypress run",
