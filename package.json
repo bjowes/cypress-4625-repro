@@ -1,0 +1,23 @@
+{
+  "name": "cypress-4625-repro",
+  "version": "1.0.0",
+  "description": "This is a repro for issue #4625 for cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "test-that-works": "npm i cypress && npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjowes/cypress-4625-repro.git"
+  },
+  "author": "Björn Weström",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bjowes/cypress-4625-repro/issues"
+  },
+  "homepage": "https://github.com/bjowes/cypress-4625-repro#readme",
+  "dependencies": {
+    "cypress": "^5.5.0"
+  }
+}
